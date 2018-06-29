@@ -23,21 +23,21 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 ## Tier 0 - prep
 - [ ]  Course: [Question Everything: Scientific Thinking in Real Life](https://www.edx.org/course/question-everything-scientific-thinking-uqx-query101x-1) 
-- [ ]  Book: [College Algebra](https://openstax.org/details/books/college-algebra) or Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
-- [ ]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
-- [ ]  Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
+- [x]  Book: [College Algebra](https://openstax.org/details/books/college-algebra) or Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
+- [x]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
+- [x]  Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
 - [ ]  Course Series: [Data Science Path on Cognitive Class](https://cognitiveclass.ai/learn/data-science/)
 - [ ]  Book: [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
-- [ ]  Project: Do all problems in Rosalind's [Python Village](http://rosalind.info/problems/list-view/?location=python-village) 
+- [x]  Project: Do all problems in Rosalind's [Python Village](http://rosalind.info/problems/list-view/?location=python-village) 
 - [ ]  Project: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 - [ ]  Project: Complete one [Bot Programming Competition on CodinGame](https://www.codingame.com/multiplayer/bot-programming)
 
 
 ## Tier 1 - foundations
-- [ ]  Course: [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about) - note: this course is only intermittently offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
+- [x]  Course: [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about) - note: this course is only intermittently offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
 - [ ]  Course: [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6) 
 - [ ]  Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)  
-- [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
+- [x]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm) 
 - [ ]  Course Series: [Deep Learning Path on Cognitive Class](https://cognitiveclass.ai/learn/deep-learning/)
 - [ ]  Course: [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6) 
 - [ ]  Course: [Data Science](http://cs109.github.io/2015/)
@@ -92,8 +92,8 @@ Bookmark these blogs and try to read at least one article from one of them per w
 - [ ]  Course: [Probability: Basic Concepts & Discrete Random Variables](https://www.edx.org/course/probability-basic-concepts-discrete-purduex-416-1x-1) 
 - [ ]  Course Series: [Hadoop Path on Cognitive Class](https://cognitiveclass.ai/learn/hadoop/)
 - [ ]  Course: [Probability: Distribution Models & Continuous Random Variables](https://www.edx.org/course/probability-distribution-models-purduex-416-2x-1) 
-- [ ]  Course: [Introduction to Mechanics, Part 1](https://www.edx.org/course/introduction-mechanics-part-1-ricex-phys-101-1x) 
-- [ ]  Course: [Electricity & Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0)
+- [x]  Course: [Introduction to Mechanics, Part 1](https://www.edx.org/course/introduction-mechanics-part-1-ricex-phys-101-1x) 
+- [x]  Course: [Electricity & Magnetism, Part 2](https://www.edx.org/course/electricity-magnetism-part-2-ricex-phys102-2x-0)
 - [ ]  Course: [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/index.htm) 
 - [ ]  Course: [Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 - [ ]  Course: [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
