@@ -26,11 +26,11 @@ Bookmark these blogs and try to read at least one article from one of them per w
 - [x]  Book: [College Algebra](https://openstax.org/details/books/college-algebra) or Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
 - [x]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
 - [x]  Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
-- [ ]  Course Series: [Data Science Path on Cognitive Class](https://cognitiveclass.ai/learn/data-science/)
+- [x]  Course Series: [Data Science Path on Cognitive Class](https://cognitiveclass.ai/learn/data-science/)
 - [ ]  Book: [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 - [x]  Project: Do all problems in Rosalind's [Python Village](http://rosalind.info/problems/list-view/?location=python-village) 
-- [ ]  Project: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
-- [ ]  Project: Complete one [Bot Programming Competition on CodinGame](https://www.codingame.com/multiplayer/bot-programming)
+- [x]  Project: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+- [x]  Project: Complete one [Bot Programming Competition on CodinGame](https://www.codingame.com/multiplayer/bot-programming)
 
 
 ## Tier 1 - foundations
